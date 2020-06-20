@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    background-color: rgb(255, 187, 40);
+}
+.navbar a{
+    color: black;
+}
+.dropdown-menu a{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+.foot{
+    background-color: rgb(66, 248, 82);
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.footer-logo{
+    margin: auto;
+}
+.footer-logo a{
+    color: black;
+}
+.col a{
+    color: black;
+}
+.col p{
+    color: black;
+}
