@@ -23,7 +23,9 @@ body{
     border: solid;
     border-color: black;
     border-radius: 10px;
-    background-color: rgb(216, 178, 247);
+    background-image: url("pics/back.png");
+    background-repeat: repeat-y;
+    background-attachment: scroll;
 }
 
 
