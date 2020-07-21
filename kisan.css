@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+.navbar{
+    background-color: rgb(3, 3, 3);
+}
+.navbar a{
+    color: white;
+}
+.dropdown-menu a{
+    color: black;
+}
+
+
+
+.content{
+    width: 80%;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-image: url("pics/green2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+.foot{
+    background-color: rgb(5, 5, 5);
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.footer-logo{
+    margin: auto;
+}
+.footer-logo a{
+    color: white;
+}
+.col a{
+    color: aliceblue;
+}
